@@ -1,0 +1,12 @@
+extentions: 
+   auto rename tag
+   css peek,
+   eslint,
+   html to css autocomplete,
+   indent-rainbow,
+   intelliCode,
+   live server,
+   rest client,
+   matherial icon,
+   GitLens,
+   tokyo night(theme)
